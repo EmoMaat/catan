@@ -1,0 +1,56 @@
+/*
+   General 
+*/
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    
+    
+}
+
+
+/* 
+   Header
+*/
+header {   
+    font-size: ;
+    text-align: center;
+    background: -webkit-linear-gradient(#f1c951, #F29E30,#F4EC5F);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Catan";
+}
+/* 
+   Main
+*/
+main {
+    text-align: center;
+    font-size: 1.5em;
+    padding-bottom: 1.5em;
+    font-family: monospace
+}
+/* 
+   Copyright section
+*/
+#copyright{
+text-align: center  
+}
+
+
+
+a {
+    color: white;
+    border-bottom: 1px solid darkgray;
+    text-decoration: none;
+    
+}
+a:hover {
+    border-bottom: 1.2px solid white;
+}
+
+* {
+    transition-duration: .4s;
+}
